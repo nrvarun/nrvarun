@@ -18,7 +18,7 @@ I am a front-end software engineer from India
 
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-
+<img align="left" alt="javascript" src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" />
 
 <br>
 <br>
