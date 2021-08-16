@@ -28,8 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrvarun&show_icons=true&locale=en&layout=compact" alt="nrvarun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrvarun&show_icons=true&locale=en" alt="nrvarun" /></p>
-<br />
-<br />
-<p></p>
-<br />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrvarun&" alt="nrvarun" /></p>
