@@ -27,6 +27,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrvarun&show_icons=true&locale=en&layout=compact" alt="nrvarun" /></p>
+<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrvarun&show_icons=true&locale=en" alt="nrvarun" /></p>
 
