@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrvarun&label=Profile%20views&color=0e75b6&style=flat" alt="nrvarun" /> </p>
 
-- 🔭 I’m currently working on [Talitrix(React/Typescript)](https://app.talitrix.com/)
+- 🔭 I’m currently working on React Native
 
 - 🌱 I’m currently learning **React, Javascript, Design Patterns, Scalability**
 
