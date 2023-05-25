@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Javascript, Design Patterns, Scalability**
 
-- 👨‍💻 All of my projects are available at [https://nrvarun.dev](https://nrvarun.dev)
+- 👨‍💻 All of my projects are available at [https://nrvarun.xyz](https://nrvarun.xyz)
 
 - 💬 Ask me about **react, javascript, web development and GSAP**
 
@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/nrvarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nrvarun" height="30" width="40" /></a>
-<a href="https://twitter.com/nr_varun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nr_varun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varunnnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunnnr" height="30" width="40" /></a>
-<a href="https://instagram.com/nrvarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nrvarun" height="30" width="40" /></a>
+<a href="https://codepen.io/nrvarun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nrvarun" height="30" width="40" /></a>
+<a href="https://twitter.com/nr_varun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nr_varun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/varunnnr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunnnr" height="30" width="40" /></a>
+<a href="https://instagram.com/nrvarun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nrvarun" height="30" width="40" /></a>
 </p>
 <br />
 
